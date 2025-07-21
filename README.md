@@ -29,9 +29,9 @@ Lets start!
 
 ## Notes
 
-* Most of them can be installed with \[MaiDumpTool](https://github.com/LioMajor/MaiDumpToolEN) while some of them are VPKs (or it uses another method like FIFA 17)
+* Most of them can be installed with [MaiDumpTool](https://github.com/LioMajor/MaiDumpToolEN) while some of them are VPKs (or it uses another method like FIFA 17)
 * The list can take a while to be updated as not much ports like these appear
-* If you want, EA FC24 LATAM has custom save files created by an unknown community, available \[here](https://www.mediafire.com/file/kuxq9ii6xv459uk/PCSE00886.rar/file)
+* If you want, EA FC24 LATAM has custom save files created by an unknown community, available [here](https://www.mediafire.com/file/kuxq9ii6xv459uk/PCSE00886.rar/file)
 
 
 
@@ -40,7 +40,7 @@ Lets start!
 
 
 * Discord: ssmgalt
-* \[FIFA PS Vita Community Facebook](https://www.facebook.com/groups/877700982364112/?ref=share)
+* [FIFA PS Vita Community Facebook](https://www.facebook.com/groups/877700982364112/?ref=share)
 
 
 
