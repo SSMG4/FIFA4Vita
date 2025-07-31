@@ -24,6 +24,7 @@ Lets start!
 * [FIFA 23](https://mega.nz/file/eP4VwSSL#baClpQlVMR\_yCxREDNZfIkM\_JyrzhMOGtDtG\_jYrlX8)
 * [EA FC24 LATAM](https://www.mediafire.com/file/qwlis5qvwhpixjb/PCSE00886.rar/file)
 * [FC25](https://drive.google.com/file/d/16kzqrBGn77smOh3p1jFLz4ymbtsXQS8i/view)
+* [FC26](https://drive.google.com/drive/folders/1KuPOxdEhTUSJTaqcvRMlm5QF5TMkBgBy?usp=drive_link) (password: lian_rozen)
 
 
 
